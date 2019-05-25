@@ -31,10 +31,10 @@ def retreive_data_kw(keyword):     #retreive data with specific keyword
 
 def retreive_data_geocode(geocode):     #retreive data with specific location
 
-        TWITTER_APP_KEY = '9GkEMR8SEzmDndbKFgUSLGPDU'
-        TWITTER_APP_KEY_SECRET = 'pcQrh8T3F5y2vBhjsKXS7cuEqdBCGH9ADha8QvK19NAzRBL0SA'
-        TWITTER_ACCESS_TOKEN = "790611908973985792-9TJs07YhBy2qz0b2llLwZpSBzPGz0C2"
-        TWITTER_ACCESS_TOKEN_SECRET = "wNVQqLTBwuhPreNCIucayqrmQlyrXyP5QKAjdfxN8UE7Y"
+        TWITTER_APP_KEY = '********'
+        TWITTER_APP_KEY_SECRET ='****************'
+        TWITTER_ACCESS_TOKEN = '*****************'
+        TWITTER_ACCESS_TOKEN_SECRET = '***********'
 
         t = Twython(app_key=TWITTER_APP_KEY,
                     app_secret=TWITTER_APP_KEY_SECRET,
